@@ -2,6 +2,14 @@ Here's an **integrated menu-driven script** with following features:
 
 # Key Features
 
+1. **Core Functions**
+   - Bulk role assignment
+   - Role renaming
+   - Role/user listing
+   - Menu navigation
+   - Session management
+   - Compatible with Keycloak 16.x/CentOS 7
+
 1. **Unified Menu System**
    - Hierarchical navigation
    - Always returns to previous menu
